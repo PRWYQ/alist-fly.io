@@ -1,4 +1,4 @@
-FROM xhofe/alist:latest
+FROM PRWYQ/alv2last:latest
 LABEL MAINTAINER="i@nn.ci"
 
 ADD alist.sh /alist.sh
