@@ -1,4 +1,4 @@
-FROM alist-org/alist:v3.7.2
+FROM alist-org/alist:v2.6.3
 LABEL MAINTAINER="i@nn.ci"
 
 ADD alist.sh /alist.sh
