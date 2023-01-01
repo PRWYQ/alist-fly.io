@@ -1,4 +1,4 @@
-FROM prwyq/alv2last:latest
+FROM alist-org/alist:v3.7.2
 LABEL MAINTAINER="i@nn.ci"
 
 ADD alist.sh /alist.sh
