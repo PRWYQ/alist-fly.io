@@ -1,4 +1,4 @@
-FROM alist-org/alist:latest
+FROM xhofe/alist:latest
 LABEL MAINTAINER="i@nn.ci"
 
 ADD alist.sh /alist.sh
